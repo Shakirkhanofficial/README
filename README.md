@@ -1,4 +1,8 @@
-<h3 align="left">Hi 👋! My Name Is Shakir Khan, And I'm A DeVops Engineer From Mumbai</h3>
+<h1 align="center">Hi 👋 I'm Shakir Khan</h1>
+
+###
+
+<h3 align="center">A passionate DevOps Engineer from Mumbai</h3>
 
 ###
 
@@ -39,6 +43,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
 </div>
+
+###
+
+<p align="left">Connect  With Me:</p>
 
 ###
 
